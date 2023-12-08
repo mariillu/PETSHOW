@@ -5,28 +5,6 @@ import java.util.Scanner;
 public class Petshow {
 
     public static void main(String[] args) {
-    	
-    	/*
-    	 * Integrantes do grupo:
-    	 * 
-    	 * Júlia Ribeiro do Nascimento
-    	 * RA: 323125113
-    	 * 
-    	 * Caleb Henrique Mendes
-    	 * RA: 323125432
-    	 * 
-    	 * Vitor Hugo Dias pereira
-    	 * RA:32318672
-    	 * 
-    	 * Marina Luiza de Jesus Ferreira
-    	 * RA: 323111931
-    	 * 
-    	 * Laisla Carolaynne Almeida Costa
-    	 * RA: 32317987
-    	 * 
-    	 * Isabela Rocha Silveira 
-    	 * RA: 323114126
-    	 * */
 
         int opcao = 0;
         
